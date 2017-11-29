@@ -1,6 +1,6 @@
 # The git command that is used frequently at work
 
-### 常规提交
+## 常规提交
 
 >  切换到本地仓库
 
@@ -31,14 +31,14 @@
 
 *  git push origin master
 
-### 远程克隆仓库
+## 远程克隆仓库
 
 *  cd xxxxxx (存放路径)
 
 *  git clone https://xxxxxxxxxx.git (远程仓库地址)
 
 
-### 同一个分支分工合作解决冲突
+## 同一个分支分工合作解决冲突
 
 *  git pull origin master (拷贝远程代码到本地，并自动合并) 
 
@@ -71,7 +71,7 @@ b45678910
 
 *  git push origin master
 
-### 版本回退
+## 版本回退
 
 >  当有时候项目出现莫名的bug时，在工期比较赶的情况下选择版本回退，保证项目可使用
 
