@@ -86,3 +86,6 @@ git commit -m "回退版本"
 git push origin master
 
 ```
+
+## 常用的git命令
+![常用git命令](git.png)
